@@ -3,4 +3,4 @@
 
 [Frontend-React](https://github.com/tomasgule/dineWithMe-react)
 
-[Frontend-React](https://github.com/tomasgule/dineWithMe-iOS)
+[Frontend-iOS](https://github.com/tomasgule/dineWithMe-iOS)
