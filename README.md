@@ -1,15 +1,11 @@
-### Kom i gang
-- Åpne terminalen og gå inn i mappa du vil ha koden i 
-- `git clone https://gitlab.stud.idi.ntnu.no/tdt4140/landsby-3/gruppe-50/dinewithme.git`
-- `pipenv install` fra root-mappa
-- `npm install` fra root-mappa
+### dineWithMe BACKEND
+[Backend](https://github.com/tomasgule/dineWithMe-backend)
 
-### Starte serveren:
-- `cd dineWithM`
-- `python manage.py runserver`
+[Frontend-React](https://github.com/tomasgule/dineWithMe-react)
 
-### Bygge endringer
-- `npm run dev`
+[Frontend-React](https://github.com/tomasgule/dineWithMe-iOS)
+
+
 
 ############
 # For å regristere en bruker
