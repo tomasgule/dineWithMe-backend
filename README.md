@@ -10,3 +10,8 @@ dineWithMe startet som et prosjekt i emenet TDT4140 Programvareutvikling Våren 
 
 
 Konseptet går ut på at brukere kan opprette middagsarrangementer som folk kan melde seg på.
+
+Planen videre for prosjektet:
+- Omorganisere og forbedre nåværende funksjonalitet i backend
+- Skrive mer uttfyllende dokumetasjon for backend
+- Imlementere funksjonalitete både i web(react) og i iOS 
